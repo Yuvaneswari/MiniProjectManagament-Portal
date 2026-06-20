@@ -46,15 +46,6 @@ A full-stack web application built using the **MERN stack (MongoDB, Express, Rea
     - models/
     - config/
   - README.md
-
----
-
-## ⚙️ Setup Instructions
-
-### 📥 Clone the Repository
-
-- git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-
 ---
 
 ### 🖥️ Backend Setup
