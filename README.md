@@ -84,14 +84,6 @@ A full-stack web application built using the **MERN stack (MongoDB, Express, Rea
 - DELETE /api/tasks/:id → Delete task
 
 ---
-
-## 📸 Screenshots
-
- [![Homepage](./home.png)](./home.png)
-- ![Dashboard](./screenshots/dashboard.png)
-
----
-
 ## 👨‍💻 Author
 
 - Name: Yuvaneswari Gunalan
