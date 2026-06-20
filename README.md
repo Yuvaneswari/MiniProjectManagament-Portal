@@ -61,11 +61,6 @@ A full-stack web application built using the **MERN stack (MongoDB, Express, Rea
 - cd backend
 - npm install
 
-- Create `.env` file:
-  - PORT=5000
-  - MONGO_URI=your_mongodb_connection_string
-  - JWT_SECRET=your_secret_key
-
 - Start backend server:
   - npm start
 
@@ -92,7 +87,7 @@ A full-stack web application built using the **MERN stack (MongoDB, Express, Rea
 
 ## 📸 Screenshots
 
-- ![Home Page](screenshots/Home.png)
+ [![Homepage](./home.png)](./home.png)
 - ![Dashboard](./screenshots/dashboard.png)
 
 ---
