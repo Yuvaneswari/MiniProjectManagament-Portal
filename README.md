@@ -92,32 +92,13 @@ A full-stack web application built using the **MERN stack (MongoDB, Express, Rea
 
 ## 📸 Screenshots
 
-- Create a folder named `screenshots/`
-- Add images inside it
-
-Example:
-
 - ![Home Page](./screenshots/home.png)
 - ![Dashboard](./screenshots/dashboard.png)
-
----
-
-## 📌 Assumptions
-
-- MongoDB is running locally or using Atlas
-- Backend runs on port 5000
-- Frontend runs on port 3000
-- Environment variables are properly configured
 
 ---
 
 ## 👨‍💻 Author
 
 - Name: Yuvaneswari Gunalan
-- VTU Number: 24636
 
----
 
-## 📄 License
-
-- This project is for educational purposes only
