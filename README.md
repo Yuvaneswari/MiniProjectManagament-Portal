@@ -20,7 +20,8 @@ A full-stack web application built using the **MERN stack (MongoDB, Express, Rea
 - **Frontend**
   - React.js
   - Axios
-  - CSS / Bootstrap (if used)
+  - CSS
+  - JavaScript
 
 - **Backend**
   - Node.js
