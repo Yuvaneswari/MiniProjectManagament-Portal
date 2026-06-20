@@ -92,7 +92,7 @@ A full-stack web application built using the **MERN stack (MongoDB, Express, Rea
 
 ## 📸 Screenshots
 
-- ![Home Page](./screenshots/home.png)
+- ![Home Page](screenshots/Home.png)
 - ![Dashboard](./screenshots/dashboard.png)
 
 ---
